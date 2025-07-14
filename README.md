@@ -1,4 +1,4 @@
-# 🎮 PixelBurstButton
+# PixelBurstButton
 
 A custom Android UI component where the button bursts into pixel particles on click, then resets automatically.
 
